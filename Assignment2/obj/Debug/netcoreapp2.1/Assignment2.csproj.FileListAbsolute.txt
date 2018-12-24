@@ -1,0 +1,14 @@
+E:\School\Classes\IS460 - Advanced Internet Programming and Server Side Development\Assignments\Assignment2\Assignment2\bin\Debug\netcoreapp2.1\Assignment2.deps.json
+E:\School\Classes\IS460 - Advanced Internet Programming and Server Side Development\Assignments\Assignment2\Assignment2\bin\Debug\netcoreapp2.1\Assignment2.runtimeconfig.json
+E:\School\Classes\IS460 - Advanced Internet Programming and Server Side Development\Assignments\Assignment2\Assignment2\bin\Debug\netcoreapp2.1\Assignment2.runtimeconfig.dev.json
+E:\School\Classes\IS460 - Advanced Internet Programming and Server Side Development\Assignments\Assignment2\Assignment2\bin\Debug\netcoreapp2.1\Assignment2.dll
+E:\School\Classes\IS460 - Advanced Internet Programming and Server Side Development\Assignments\Assignment2\Assignment2\obj\Debug\netcoreapp2.1\Assignment2.csprojAssemblyReference.cache
+E:\School\Classes\IS460 - Advanced Internet Programming and Server Side Development\Assignments\Assignment2\Assignment2\obj\Debug\netcoreapp2.1\Assignment2.csproj.CoreCompileInputs.cache
+E:\School\Classes\IS460 - Advanced Internet Programming and Server Side Development\Assignments\Assignment2\Assignment2\obj\Debug\netcoreapp2.1\Assignment2.RazorAssemblyInfo.cache
+E:\School\Classes\IS460 - Advanced Internet Programming and Server Side Development\Assignments\Assignment2\Assignment2\obj\Debug\netcoreapp2.1\Assignment2.RazorAssemblyInfo.cs
+E:\School\Classes\IS460 - Advanced Internet Programming and Server Side Development\Assignments\Assignment2\Assignment2\obj\Debug\netcoreapp2.1\Assignment2.AssemblyInfoInputs.cache
+E:\School\Classes\IS460 - Advanced Internet Programming and Server Side Development\Assignments\Assignment2\Assignment2\obj\Debug\netcoreapp2.1\Assignment2.AssemblyInfo.cs
+E:\School\Classes\IS460 - Advanced Internet Programming and Server Side Development\Assignments\Assignment2\Assignment2\obj\Debug\netcoreapp2.1\Assignment2.RazorTargetAssemblyInfo.cache
+E:\School\Classes\IS460 - Advanced Internet Programming and Server Side Development\Assignments\Assignment2\Assignment2\bin\Debug\netcoreapp2.1\Assignment2.pdb
+E:\School\Classes\IS460 - Advanced Internet Programming and Server Side Development\Assignments\Assignment2\Assignment2\obj\Debug\netcoreapp2.1\Assignment2.dll
+E:\School\Classes\IS460 - Advanced Internet Programming and Server Side Development\Assignments\Assignment2\Assignment2\obj\Debug\netcoreapp2.1\Assignment2.pdb
